@@ -1,0 +1,18 @@
+# FlamesCorpGames
+
+FlamesCorpGames is a collection of game development projects and tools, built with a focus on immersive experiences, high-performance gameplay, and cutting-edge AI integration. This repository contains various games and game engines developed by FlamesCorp under the leadership of Catsan, with inspirations drawn from classics, modern gaming trends, and unique gameplay concepts.
+
+## Features
+
+- **Advanced AI Integration:** Utilizing state-of-the-art AI for dynamic gameplay experiences.
+- **Cross-Platform Development:** Games and engines compatible with multiple platforms, including Windows, macOS, and Linux.
+- **High-Performance Graphics:** Leveraging SDL2 and modern rendering techniques for optimized graphical performance.
+- **Customizable Engines:** Modular design that allows for easy extension and customization of the game engines.
+
+## Installation
+
+To clone this repository and get started with development, follow these steps:
+
+```bash
+git clone https://github.com/catsanftw/FlamesCorpGames.git
+cd FlamesCorpGames
