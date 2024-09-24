@@ -42,7 +42,7 @@ This repository and its content are provided "as-is" without any guarantees. Ple
 Contact
 For any questions or issues, please open an issue on GitHub or contact the repository maintainers.
 
-© 2024 Flaames LTD Gaming. Licensed under the Apache License, Version 2.0.
+© 2024 Flames 'N Co,  LTD Gaming. Licensed under the Apache License, Version 2.0.
 
 vbnet
 Copy code
